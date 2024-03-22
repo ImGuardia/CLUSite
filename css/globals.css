@@ -1,0 +1,76 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Sofia+Sans:700|Prompt:300");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+@import url("https://px.animaapp.com/65caa4d228b88ff412f98588.65caa4d328b88ff412f9858b.ncjOQMb.hcp.png");
+
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.align-self-flex-end {
+  align-self: flex-end;
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.listeners-active,
+.listeners-active * {
+  pointer-events: auto;
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.listeners-active-click,
+.listeners-active-click * {
+  cursor: pointer;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.arrow-1 {
+  height: 40px;
+  width: 59px;
+}
+
+.place {
+  letter-spacing: 1.28px;
+  line-height: 0.1px;
+  margin-bottom: 1.0px;
+  min-height: 1px;
+  min-width: 159px;
+}
+
+.student-frame7 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 1004px;
+  padding: 1px 0;
+  width: 604px;
+}

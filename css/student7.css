@@ -1,0 +1,54 @@
+/* screen - student7 */
+
+.student7 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  width: 1920px;
+}
+
+.student7 .overlap-group {
+  align-items: flex-end;
+  background-color: var(--jacarta);
+  display: flex;
+  gap: 356px;
+  height: 1080px;
+  min-width: 1920px;
+  padding: 0 36px;
+}
+
+.student7 .back {
+  align-items: center;
+  background-color: var(--jacarta);
+  cursor: pointer;
+  display: flex;
+  gap: 19px;
+  height: 88px;
+  margin-bottom: 36px;
+  min-width: 266px;
+  padding: 0 11px;
+}
+
+.student7 .alex-1 {
+  height: 256px;
+  margin-top: 39px;
+  object-fit: cover;
+  width: 256px;
+}
+
+.student7 .name {
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  margin-top: 17px;
+  min-height: 52px;
+  text-align: center;
+  width: 364px;
+}
+
+.student7 .student7-desc {
+  letter-spacing: 2.40px;
+  line-height: 24px;
+  margin-top: 70px;
+  min-height: 568px;
+  width: 524px;
+}

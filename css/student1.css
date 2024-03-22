@@ -1,0 +1,76 @@
+/* screen - student1 */
+
+.student1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1080px;
+  width: 1920px;
+}
+
+.student1 .overlap-group {
+  align-items: flex-start;
+  background-color: var(--jacarta);
+  display: flex;
+  flex-direction: column;
+  min-height: 1080px;
+  padding: 36px;
+  width: 1920px;
+}
+
+.student1 .james-1 {
+  align-self: center;
+  height: 256px;
+  margin-top: 91px;
+  object-fit: cover;
+  width: 256px;
+}
+
+.student1 .overlap-group1 {
+  height: 661px;
+  position: relative;
+  width: 1844px;
+}
+
+.student1 .student-frame1 {
+  align-items: flex-start;
+  display: flex;
+  height: 647px;
+  left: 0;
+  padding: 136px 616px;
+  position: absolute;
+  top: 0;
+  width: 1844px;
+}
+
+.student1 .student1-desc {
+  letter-spacing: 2.40px;
+  line-height: 24px;
+  margin-left: 88px;
+  min-height: 363px;
+  width: 524px;
+}
+
+.student1 .name {
+  left: 742px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 26px;
+  width: 364px;
+}
+
+.student1 .back {
+  align-items: center;
+  background-color: var(--jacarta);
+  cursor: pointer;
+  display: flex;
+  gap: 19px;
+  height: 88px;
+  left: 0;
+  min-width: 266px;
+  padding: 0 11px;
+  position: absolute;
+  top: 573px;
+}

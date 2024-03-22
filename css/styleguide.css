@@ -1,0 +1,54 @@
+:root { 
+  --black: #000000;
+  --jacarta: #3b2360;
+  --lightning-yellow: #ffc222;
+  --white: #ffffff;
+ 
+  --font-size-l: 36px;
+  --font-size-m: 24px;
+  --font-size-xl: 48px;
+  --font-size-xxl: 58px;
+  --font-size-xxxl: 64px;
+ 
+  --font-family-prompt: "Prompt", Helvetica;
+  --font-family-sofia_sans: "Sofia Sans", Helvetica;
+}
+.sofiasans-bold-lightning-yellow-64px {
+  color: var(--lightning-yellow);
+  font-family: var(--font-family-sofia_sans);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.sofiasans-bold-lightning-yellow-36px {
+  color: var(--lightning-yellow);
+  font-family: var(--font-family-sofia_sans);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.sofiasans-bold-lightning-yellow-24px {
+  color: var(--lightning-yellow);
+  font-family: var(--font-family-sofia_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.sofiasans-bold-black-36px {
+  color: var(--black);
+  font-family: var(--font-family-sofia_sans);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.sofiasans-bold-lightning-yellow-48px {
+  color: var(--lightning-yellow);
+  font-family: var(--font-family-sofia_sans);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}

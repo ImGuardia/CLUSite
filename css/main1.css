@@ -1,0 +1,2149 @@
+/* screen - main1 */
+
+.main4 {
+  background-color: #ffffff;
+  height: 7000px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.main4 .menu-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  height: 231px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 401px;
+}
+
+.main4 .image-placeholder-SQ9Gz0 {
+  --z-index: 0;
+  background-color: #3b2360;
+  height: 231px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 401px;
+}
+
+.main4 .main-select-SQ9Gz0 {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mainselect.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 76px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 78px;
+}
+
+.main4 .menu-SQ9Gz0 {
+  --z-index: 2;
+  background-color: transparent;
+  color: #ffc222;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  height: 35px;
+  left: 166px;
+  letter-spacing: 4.80px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 19px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.main4 .about-us-SQ9Gz0 {
+  --z-index: 3;
+  background-color: transparent;
+  color: #ffc222;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  height: 35px;
+  left: 89px;
+  letter-spacing: 4.80px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 94px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.main4 .frame-1-SQ9Gz0 {
+  --z-index: 4;
+  background-color: transparent;
+  height: 84px;
+  left: 0px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 147px;
+  width: 401px;
+}
+
+.main4 .rectangle-10-j6Ob6a {
+  --z-index: 0;
+  background-color: #ffeab4;
+  height: 89px;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 401px;
+}
+
+.main4 .clu-w-ebsite-SQ9Gz0 {
+  --z-index: 5;
+  background-color: transparent;
+  color: #ffc222;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  height: 35px;
+  left: 43px;
+  letter-spacing: 4.80px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 169px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.main4 .selector-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  cursor: pointer;
+  height: 71px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 76px;
+  width: 401px;
+}
+
+.main4 .header-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  height: 76px;
+  left: 401px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1519px;
+}
+
+.main4 .rectangle-7-IcPKRJ {
+  --z-index: 0;
+  background-color: #3b2360;
+  height: 76px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1844px;
+}
+
+.main4 .senior-multimedia-show-of-2024-IcPKRJ {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffc222;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 16px;
+  letter-spacing: 4.80px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.main4 .instagram-icon-IcPKRJ {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/instagram-icon.png);
+  background-size: 100% 100%;
+  height: 63px;
+  left: 1244px;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: 63px;
+}
+
+.main4 .x-twitter-icon-IcPKRJ {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/x-twitter-icon.png);
+  background-size: 100% 100%;
+  height: 63px;
+  left: 1328px;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: 63px;
+}
+
+.main4 .facebook-IcPKRJ {
+  --z-index: 4;
+  background-color: transparent;
+  height: 63px;
+  left: 1412px;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: 65px;
+}
+
+.main4 .rectangle-2-89AOHu {
+  --z-index: 0;
+  background-color: transparent;
+  border: 4px solid;
+  border-color: #ffffff;
+  border-radius: 20px;
+  height: 63px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 63px;
+}
+
+.main4 .f-89AOHu {
+  --z-index: 1;
+  -webkit-text-stroke: 2.5px #ffffff;
+  background-color: transparent;
+  color: transparent;
+  font-family: 'Prompt', Helvetica;
+  font-size: 58px;
+  font-style: normal;
+  font-weight: 300;
+  height: 46px;
+  left: 13px;
+  letter-spacing: 5.80px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  width: 45px;
+}
+
+.main4 .group-7-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/group-7.png);
+  background-size: 100% 100%;
+  height: 897px;
+  left: 387px;
+  opacity: 1;
+  position: absolute;
+  top: 107px;
+  width: 1143px;
+}
+
+.main4 .image-cards-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  height: 4755px;
+  left: 401px;
+  opacity: 1;
+  position: absolute;
+  top: 1013px;
+  width: 1116px;
+}
+
+.main4 .image-frames-FZWhMA {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/imageframes.png);
+  background-size: 100% 100%;
+  height: 4730px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: -8px;
+  width: 1074px;
+}
+
+.main4 .image-subtext-FZWhMA {
+  --z-index: 1;
+  background-color: transparent;
+  height: 4151px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 604px;
+  width: 1144px;
+}
+
+.main4 .name-RlSMyA {
+  --z-index: 0;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 11px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 512px;
+}
+
+.main4 .name-U84V07 {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 13px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 685px;
+  width: 512px;
+}
+
+.main4 .name-UB8VY0 {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 0px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 1370px;
+  width: 512px;
+}
+
+.main4 .name-pCPhxo {
+  --z-index: 3;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 0px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 2055px;
+  width: 512px;
+}
+
+.main4 .kaila-hunley-RlSMyA {
+  --z-index: 4;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 594px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 512px;
+}
+
+.main4 .name-5DheOz {
+  --z-index: 5;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 594px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 685px;
+  width: 512px;
+}
+
+.main4 .name-x6KZnF {
+  --z-index: 6;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 604px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 1370px;
+  width: 512px;
+}
+
+.main4 .name-5I8mvk {
+  --z-index: 7;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 594px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 2055px;
+  width: 512px;
+}
+
+.main4 .name-troJe6 {
+  --z-index: 8;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 11px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 2733px;
+  width: 512px;
+}
+
+.main4 .name-sv6X90 {
+  --z-index: 9;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 11px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 3416px;
+  width: 512px;
+}
+
+.main4 .name-WwHb4C {
+  --z-index: 10;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 598px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 3416px;
+  width: 512px;
+}
+
+.main4 .name-ANmlbL {
+  --z-index: 11;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 598px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 2734px;
+  width: 512px;
+}
+
+.main4 .name-AqkUEa {
+  --z-index: 12;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 11px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 4096px;
+  width: 512px;
+}
+
+.main4 .lilyana-ruiz-RlSMyA {
+  --z-index: 13;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 593px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 4096px;
+  width: 512px;
+}
+/* screen - main1 */
+
+.main1 {
+  background-color: #ffffff;
+  height: 7000px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.main1 .menu-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/menu.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 76px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 76px;
+}
+
+.main1 .image-cards-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  height: 4755px;
+  left: 401px;
+  opacity: 1;
+  position: absolute;
+  top: 1013px;
+  width: 1116px;
+}
+
+.main1 .image-frames-FZWhMA {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/imageframes.png);
+  background-size: 100% 100%;
+  height: 4730px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: -8px;
+  width: 1074px;
+}
+
+.main1 .image-subtext-FZWhMA {
+  --z-index: 1;
+  background-color: transparent;
+  height: 4151px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 604px;
+  width: 1144px;
+}
+
+.main1 .name-RlSMyA {
+  --z-index: 0;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 11px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 512px;
+}
+
+.main1 .name-U84V07 {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 13px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 685px;
+  width: 512px;
+}
+
+.main1 .name-UB8VY0 {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 0px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 1370px;
+  width: 512px;
+}
+
+.main1 .name-pCPhxo {
+  --z-index: 3;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 0px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 2055px;
+  width: 512px;
+}
+
+.main1 .kaila-hunley-RlSMyA {
+  --z-index: 4;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 594px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 512px;
+}
+
+.main1 .name-5DheOz {
+  --z-index: 5;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 594px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 685px;
+  width: 512px;
+}
+
+.main1 .name-x6KZnF {
+  --z-index: 6;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 604px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 1370px;
+  width: 512px;
+}
+
+.main1 .name-5I8mvk {
+  --z-index: 7;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 594px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 2055px;
+  width: 512px;
+}
+
+.main1 .name-troJe6 {
+  --z-index: 8;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 11px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 2733px;
+  width: 512px;
+}
+
+.main1 .name-sv6X90 {
+  --z-index: 9;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 11px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 3416px;
+  width: 512px;
+}
+
+.main1 .name-WwHb4C {
+  --z-index: 10;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 598px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 3416px;
+  width: 512px;
+}
+
+.main1 .name-ANmlbL {
+  --z-index: 11;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 598px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 2734px;
+  width: 512px;
+}
+
+.main1 .name-AqkUEa {
+  --z-index: 12;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 11px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 4096px;
+  width: 512px;
+}
+
+.main1 .lilyana-ruiz-RlSMyA {
+  --z-index: 13;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 593px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 4096px;
+  width: 512px;
+}
+
+.main1 .header-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  height: 76px;
+  left: 76px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1844px;
+}
+
+.main1 .rectangle-7-IcPKRJ {
+  --z-index: 0;
+  background-color: #3b2360;
+  height: 76px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1844px;
+}
+
+.main1 .senior-multimedia-show-of-2024-IcPKRJ {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffc222;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 11px;
+  letter-spacing: 4.80px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.main1 .instagram-icon-IcPKRJ {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/instagram-icon.png);
+  background-size: 100% 100%;
+  height: 63px;
+  left: 1573px;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: 63px;
+}
+
+.main1 .x-twitter-icon-IcPKRJ {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/x-twitter-icon-1.png);
+  background-size: 100% 100%;
+  height: 63px;
+  left: 1657px;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: 63px;
+}
+
+.main1 .facebook-IcPKRJ {
+  --z-index: 4;
+  background-color: transparent;
+  height: 63px;
+  left: 1741px;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: 65px;
+}
+
+.main1 .rectangle-2-89AOHu {
+  --z-index: 0;
+  background-color: transparent;
+  border: 4px solid;
+  border-color: #ffffff;
+  border-radius: 20px;
+  height: 63px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 63px;
+}
+
+.main1 .f-89AOHu {
+  --z-index: 1;
+  -webkit-text-stroke: 2.5px #ffffff;
+  background-color: transparent;
+  color: transparent;
+  font-family: 'Prompt', Helvetica;
+  font-size: 58px;
+  font-style: normal;
+  font-weight: 300;
+  height: 46px;
+  left: 13px;
+  letter-spacing: 5.80px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  width: 45px;
+}
+
+.main1 .group-7-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/group-7.png);
+  background-size: 100% 100%;
+  height: 897px;
+  left: 387px;
+  opacity: 1;
+  position: absolute;
+  top: 107px;
+  width: 1143px;
+}
+/* screen - main2 */
+
+.main2 {
+  background-color: #ffffff;
+  height: 7000px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.main2 .menu-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  height: 231px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 401px;
+}
+
+.main2 .image-placeholder-SQ9Gz0 {
+  --z-index: 0;
+  background-color: #3b2360;
+  height: 231px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 401px;
+}
+
+.main2 .main-select-SQ9Gz0 {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mainselect.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 76px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 78px;
+}
+
+.main2 .menu-SQ9Gz0 {
+  --z-index: 2;
+  background-color: transparent;
+  color: #ffc222;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  height: 35px;
+  left: 166px;
+  letter-spacing: 4.80px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 19px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.main2 .selector-SQ9Gz0 {
+  --z-index: 3;
+  background-color: transparent;
+  cursor: pointer;
+  height: 71px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 76px;
+  width: 401px;
+}
+
+.main2 .about-us-SQ9Gz0 {
+  --z-index: 4;
+  background-color: transparent;
+  color: #ffc222;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  height: 35px;
+  left: 89px;
+  letter-spacing: 4.80px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 94px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.main2 .frame-1-SQ9Gz0 {
+  --z-index: 5;
+  background-color: transparent;
+  cursor: pointer;
+  height: 84px;
+  left: 0px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 147px;
+  width: 401px;
+}
+
+.main2 .clu-w-ebsite-SQ9Gz0 {
+  --z-index: 6;
+  background-color: transparent;
+  color: #ffc222;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  height: 35px;
+  left: 43px;
+  letter-spacing: 4.80px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 173px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.main2 .header-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  height: 76px;
+  left: 401px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1519px;
+}
+
+.main2 .rectangle-7-IcPKRJ {
+  --z-index: 0;
+  background-color: #3b2360;
+  height: 76px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1844px;
+}
+
+.main2 .senior-multimedia-show-of-2024-IcPKRJ {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffc222;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 16px;
+  letter-spacing: 4.80px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.main2 .instagram-icon-IcPKRJ {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/instagram-icon.png);
+  background-size: 100% 100%;
+  height: 63px;
+  left: 1244px;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: 63px;
+}
+
+.main2 .x-twitter-icon-IcPKRJ {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/x-twitter-icon-1.png);
+  background-size: 100% 100%;
+  height: 63px;
+  left: 1328px;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: 63px;
+}
+
+.main2 .facebook-IcPKRJ {
+  --z-index: 4;
+  background-color: transparent;
+  height: 63px;
+  left: 1412px;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: 65px;
+}
+
+.main2 .rectangle-2-89AOHu {
+  --z-index: 0;
+  background-color: transparent;
+  border: 4px solid;
+  border-color: #ffffff;
+  border-radius: 20px;
+  height: 63px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 63px;
+}
+
+.main2 .f-89AOHu {
+  --z-index: 1;
+  -webkit-text-stroke: 2.5px #ffffff;
+  background-color: transparent;
+  color: transparent;
+  font-family: 'Prompt', Helvetica;
+  font-size: 58px;
+  font-style: normal;
+  font-weight: 300;
+  height: 46px;
+  left: 13px;
+  letter-spacing: 5.80px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  width: 45px;
+}
+
+.main2 .group-7-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/group-7.png);
+  background-size: 100% 100%;
+  height: 897px;
+  left: 387px;
+  opacity: 1;
+  position: absolute;
+  top: 107px;
+  width: 1143px;
+}
+
+.main2 .image-cards-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  height: 4755px;
+  left: 401px;
+  opacity: 1;
+  position: absolute;
+  top: 1013px;
+  width: 1116px;
+}
+
+.main2 .image-frames-FZWhMA {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/imageframes.png);
+  background-size: 100% 100%;
+  height: 4730px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: -8px;
+  width: 1074px;
+}
+
+.main2 .image-subtext-FZWhMA {
+  --z-index: 1;
+  background-color: transparent;
+  height: 4151px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 604px;
+  width: 1144px;
+}
+
+.main2 .name-RlSMyA {
+  --z-index: 0;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 11px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 512px;
+}
+
+.main2 .name-U84V07 {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 13px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 685px;
+  width: 512px;
+}
+
+.main2 .name-UB8VY0 {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 0px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 1370px;
+  width: 512px;
+}
+
+.main2 .name-pCPhxo {
+  --z-index: 3;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 0px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 2055px;
+  width: 512px;
+}
+
+.main2 .kaila-hunley-RlSMyA {
+  --z-index: 4;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 594px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 512px;
+}
+
+.main2 .name-5DheOz {
+  --z-index: 5;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 594px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 685px;
+  width: 512px;
+}
+
+.main2 .name-x6KZnF {
+  --z-index: 6;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 604px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 1370px;
+  width: 512px;
+}
+
+.main2 .name-5I8mvk {
+  --z-index: 7;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 594px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 2055px;
+  width: 512px;
+}
+
+.main2 .name-troJe6 {
+  --z-index: 8;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 11px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 2733px;
+  width: 512px;
+}
+
+.main2 .name-sv6X90 {
+  --z-index: 9;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 11px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 3416px;
+  width: 512px;
+}
+
+.main2 .name-WwHb4C {
+  --z-index: 10;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 598px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 3416px;
+  width: 512px;
+}
+
+.main2 .name-ANmlbL {
+  --z-index: 11;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 598px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 2734px;
+  width: 512px;
+}
+
+.main2 .name-AqkUEa {
+  --z-index: 12;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 11px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 4096px;
+  width: 512px;
+}
+
+.main2 .lilyana-ruiz-RlSMyA {
+  --z-index: 13;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 593px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 4096px;
+  width: 512px;
+}
+/* screen - main3 */
+
+.main3 {
+  background-color: #ffffff;
+  height: 7000px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.main3 .menu-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  height: 231px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 401px;
+}
+
+.main3 .image-placeholder-SQ9Gz0 {
+  --z-index: 0;
+  background-color: #3b2360;
+  height: 231px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 401px;
+}
+
+.main3 .main-select-SQ9Gz0 {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mainselect.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 76px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 78px;
+}
+
+.main3 .menu-SQ9Gz0 {
+  --z-index: 2;
+  background-color: transparent;
+  color: #ffc222;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  height: 35px;
+  left: 166px;
+  letter-spacing: 4.80px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 19px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.main3 .selector-SQ9Gz0 {
+  --z-index: 3;
+  background-color: transparent;
+  height: 71px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 76px;
+  width: 401px;
+}
+
+.main3 .rectangle-9-NkwoYt {
+  --z-index: 0;
+  background-color: #ffeab3;
+  height: 71px;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 401px;
+}
+
+.main3 .about-us-SQ9Gz0 {
+  --z-index: 4;
+  background-color: transparent;
+  color: #ffc222;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  height: 35px;
+  left: 89px;
+  letter-spacing: 4.80px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 93px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.main3 .frame-1-SQ9Gz0 {
+  --z-index: 5;
+  background-color: transparent;
+  cursor: pointer;
+  height: 84px;
+  left: 0px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 147px;
+  width: 401px;
+}
+
+.main3 .clu-w-ebsite-SQ9Gz0 {
+  --z-index: 6;
+  background-color: transparent;
+  color: #ffc222;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  height: 35px;
+  left: 43px;
+  letter-spacing: 4.80px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 172px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.main3 .header-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  height: 76px;
+  left: 401px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1519px;
+}
+
+.main3 .rectangle-7-IcPKRJ {
+  --z-index: 0;
+  background-color: #3b2360;
+  height: 76px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1844px;
+}
+
+.main3 .senior-multimedia-show-of-2024-IcPKRJ {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffc222;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 16px;
+  letter-spacing: 4.80px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.main3 .instagram-icon-IcPKRJ {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/instagram-icon.png);
+  background-size: 100% 100%;
+  height: 63px;
+  left: 1244px;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: 63px;
+}
+
+.main3 .x-twitter-icon-IcPKRJ {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/x-twitter-icon-1.png);
+  background-size: 100% 100%;
+  height: 63px;
+  left: 1328px;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: 63px;
+}
+
+.main3 .facebook-IcPKRJ {
+  --z-index: 4;
+  background-color: transparent;
+  height: 63px;
+  left: 1412px;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: 65px;
+}
+
+.main3 .rectangle-2-89AOHu {
+  --z-index: 0;
+  background-color: transparent;
+  border: 4px solid;
+  border-color: #ffffff;
+  border-radius: 20px;
+  height: 63px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 63px;
+}
+
+.main3 .f-89AOHu {
+  --z-index: 1;
+  -webkit-text-stroke: 2.5px #ffffff;
+  background-color: transparent;
+  color: transparent;
+  font-family: 'Prompt', Helvetica;
+  font-size: 58px;
+  font-style: normal;
+  font-weight: 300;
+  height: 46px;
+  left: 13px;
+  letter-spacing: 5.80px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  width: 45px;
+}
+
+.main3 .group-7-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/group-7.png);
+  background-size: 100% 100%;
+  height: 897px;
+  left: 387px;
+  opacity: 1;
+  position: absolute;
+  top: 107px;
+  width: 1143px;
+}
+
+.main3 .image-cards-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  height: 4755px;
+  left: 401px;
+  opacity: 1;
+  position: absolute;
+  top: 1013px;
+  width: 1116px;
+}
+
+.main3 .image-frames-FZWhMA {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/imageframes.png);
+  background-size: 100% 100%;
+  height: 4730px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: -8px;
+  width: 1074px;
+}
+
+.main3 .image-subtext-FZWhMA {
+  --z-index: 1;
+  background-color: transparent;
+  height: 4151px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 604px;
+  width: 1144px;
+}
+
+.main3 .name-RlSMyA {
+  --z-index: 0;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 11px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 512px;
+}
+
+.main3 .name-U84V07 {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 13px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 685px;
+  width: 512px;
+}
+
+.main3 .name-UB8VY0 {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 0px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 1370px;
+  width: 512px;
+}
+
+.main3 .name-pCPhxo {
+  --z-index: 3;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 0px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 2055px;
+  width: 512px;
+}
+
+.main3 .kaila-hunley-RlSMyA {
+  --z-index: 4;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 594px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 512px;
+}
+
+.main3 .name-5DheOz {
+  --z-index: 5;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 594px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 685px;
+  width: 512px;
+}
+
+.main3 .name-x6KZnF {
+  --z-index: 6;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 604px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 1370px;
+  width: 512px;
+}
+
+.main3 .name-5I8mvk {
+  --z-index: 7;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 594px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 2055px;
+  width: 512px;
+}
+
+.main3 .name-troJe6 {
+  --z-index: 8;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 11px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 2733px;
+  width: 512px;
+}
+
+.main3 .name-sv6X90 {
+  --z-index: 9;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 11px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 3416px;
+  width: 512px;
+}
+
+.main3 .name-WwHb4C {
+  --z-index: 10;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 598px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 3416px;
+  width: 512px;
+}
+
+.main3 .name-ANmlbL {
+  --z-index: 11;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 598px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 2734px;
+  width: 512px;
+}
+
+.main3 .name-AqkUEa {
+  --z-index: 12;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 11px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 4096px;
+  width: 512px;
+}
+
+.main3 .lilyana-ruiz-RlSMyA {
+  --z-index: 13;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Sofia Sans', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 593px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 4096px;
+  width: 512px;
+}

@@ -1,0 +1,351 @@
+/* screen - main4 */
+
+.main4 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 7000px;
+  width: 1920px;
+}
+
+.main4 .overlap-group-container {
+  height: 1005px;
+  position: relative;
+  width: 1920px;
+}
+
+.main4 .overlap-group3 {
+  height: 1005px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1531px;
+}
+
+.main4 .menu {
+  align-items: flex-start;
+  background-color: var(--jacarta);
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  left: 0;
+  min-height: 231px;
+  position: absolute;
+  top: 0;
+  width: 401px;
+}
+
+.main4 .flex-row {
+  gap: 88px;
+  min-width: 297px;
+}
+
+.main4 .main-select {
+  height: 76px;
+  width: 78px;
+}
+
+.main4 .menu-1 {
+  height: 35px;
+  letter-spacing: 4.80px;
+  line-height: 35px;
+  margin-bottom: 3.0px;
+  min-width: 131px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.main4 .title {
+  align-self: center;
+  height: 35px;
+  letter-spacing: 4.80px;
+  line-height: 35px;
+  min-width: 223px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.main4 .overlap-group {
+  height: 84px;
+  position: relative;
+  width: 401px;
+}
+
+.main4 .frame-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 84px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 401px;
+}
+
+.main4 .rectangle-10 {
+  background-color: #ffeab4;
+  height: 89px;
+  margin-bottom: -5px;
+  width: 401px;
+}
+
+.main4 .clu-w-ebsite {
+  height: 35px;
+  left: 43px;
+  letter-spacing: 4.80px;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.main4 .selector {
+  height: 71px;
+  left: 0;
+  position: absolute;
+  top: 76px;
+  width: 401px;
+}
+
+.main4 .group-7 {
+  height: 897px;
+  left: 387px;
+  position: absolute;
+  top: 107px;
+  width: 1143px;
+}
+
+.main4 .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--jacarta);
+  display: flex;
+  height: 76px;
+  left: 401px;
+  min-width: 1844px;
+  padding: 6px 16px;
+  position: absolute;
+  top: 0;
+}
+
+.main4 .senior-multimedia-show-of-2024 {
+  align-self: center;
+  letter-spacing: 4.80px;
+  line-height: 35px;
+  margin-bottom: 9.0px;
+  min-width: 897px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.main4 .instagram-icon {
+  height: 63px;
+  margin-left: 331px;
+  width: 63px;
+}
+
+.main4 .x-twitter-icon {
+  height: 63px;
+  margin-left: 21px;
+  width: 63px;
+}
+
+.main4 .overlap-group-1 {
+  align-items: flex-end;
+  border: 4px solid;
+  border-color: var(--white);
+  border-radius: 20px;
+  display: flex;
+  height: 63px;
+  justify-content: flex-end;
+  margin-left: 21px;
+  min-width: 63px;
+  padding: 6.5px 8.5px;
+}
+
+.main4 .f {
+  -webkit-text-stroke: 2.5px var(--white);
+  color: transparent;
+  font-family: var(--font-family-prompt);
+  font-size: var(--font-size-xxl);
+  font-weight: 300;
+  height: 46px;
+  letter-spacing: 5.80px;
+  line-height: 35px;
+  text-align: center;
+  width: 45px;
+}
+
+.main4 .image-cards {
+  align-items: flex-start;
+  display: flex;
+  height: 4755px;
+  margin-right: 1.59px;
+  min-width: 1116px;
+}
+
+.main4 .image-container {
+  height: 4763px;
+  margin-top: -8px;
+  position: relative;
+  width: 1144px;
+}
+
+.main4 .image-frames {
+  height: 4730px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1074px;
+}
+
+.main4 .image-subtext {
+  align-items: flex-end;
+  display: flex;
+  gap: 68px;
+  height: 4151px;
+  left: 0;
+  min-width: 1144px;
+  position: absolute;
+  top: 612px;
+}
+
+.main4 .name-container {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0;
+  min-height: 4151px;
+  width: 525px;
+}
+
+.main4 .name-2 {
+  height: 55px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  margin-right: 1.73px;
+  text-align: center;
+  width: 512px;
+}
+
+.main4 .name-3 {
+  height: 55px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  margin-top: 630px;
+  text-align: center;
+  width: 512px;
+}
+
+.main4 .name {
+  align-self: flex-start;
+  height: 55px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  margin-top: 630px;
+  text-align: center;
+  width: 512px;
+}
+
+.main4 .name-4 {
+  height: 55px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  margin-right: 1.73px;
+  margin-top: 623px;
+  text-align: center;
+  width: 512px;
+}
+
+.main4 .name-5 {
+  height: 55px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  margin-right: 1.73px;
+  margin-top: 628px;
+  text-align: center;
+  width: 512px;
+}
+
+.main4 .name-6 {
+  height: 55px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  margin-right: 1.73px;
+  margin-top: 625px;
+  text-align: center;
+  width: 512px;
+}
+
+.main4 .flex-col {
+  flex-direction: column;
+  margin-bottom: 0;
+  min-height: 4151px;
+  width: 523px;
+}
+
+.main4 .kaila-hunley {
+  height: 55px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  margin-right: 8.76px;
+  text-align: center;
+  width: 512px;
+}
+
+.main4 .name-1 {
+  height: 55px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  margin-right: 8.76px;
+  margin-top: 630px;
+  text-align: center;
+  width: 512px;
+}
+
+.main4 .name-7 {
+  align-self: flex-end;
+  height: 55px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  margin-top: 630px;
+  text-align: center;
+  width: 512px;
+}
+
+.main4 .name-8 {
+  height: 55px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  margin-right: 1.0px;
+  margin-top: 624px;
+  text-align: center;
+  width: 512px;
+}
+
+.main4 .name-9 {
+  height: 55px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  margin-right: 1.0px;
+  margin-top: 627px;
+  text-align: center;
+  width: 512px;
+}
+
+.main4 .lilyana-ruiz {
+  align-self: flex-start;
+  height: 55px;
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  margin-top: 625px;
+  text-align: center;
+  width: 512px;
+}
+
+.main4 .flex {
+  align-items: center;
+  display: flex;
+}

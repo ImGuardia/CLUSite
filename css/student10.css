@@ -1,0 +1,83 @@
+/* screen - student10 */
+
+.student10 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  width: 1920px;
+}
+
+.student10 .overlap-group {
+  background-color: var(--jacarta);
+  height: 1080px;
+  position: relative;
+  width: 1920px;
+}
+
+.student10 .student-frame8 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 1040px;
+  left: 44px;
+  padding: 0 166px;
+  position: absolute;
+  top: 40px;
+  width: 1833px;
+}
+
+.student10 .matt-1 {
+  height: 256px;
+  margin-left: 1.0px;
+  margin-top: 74px;
+  object-fit: cover;
+  width: 256px;
+}
+
+.student10 .name {
+  letter-spacing: 3.60px;
+  line-height: 35px;
+  margin-left: 1.0px;
+  margin-top: 15px;
+  min-height: 52px;
+  text-align: center;
+  width: 364px;
+}
+
+.student10 .frame-3::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.student10 .frame-3 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 568px;
+  margin-top: 75px;
+  min-width: 1500px;
+  overflow-y: scroll;
+  padding: 0 98px;
+}
+
+.student10 .student8-desc {
+  letter-spacing: 2.40px;
+  line-height: 24px;
+  margin-top: -1px;
+  min-height: 568px;
+  width: 1304px;
+}
+
+.student10 .back {
+  align-items: center;
+  background-color: var(--jacarta);
+  cursor: pointer;
+  display: flex;
+  gap: 19px;
+  height: 88px;
+  left: 36px;
+  min-width: 266px;
+  padding: 0 11px;
+  position: absolute;
+  top: 956px;
+}
